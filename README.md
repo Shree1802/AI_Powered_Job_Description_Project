@@ -1,11 +1,14 @@
 # AI Powered Job Description Generator
   Here's a complete GitHub documentation structure for your AI-powered job description generator project. This documentation will include an overview, setup instructions, how to use the app, and contribution guidelines.  AI-Powered Job Description Generator An AI-powered application built with Streamlit and OpenAI to generate professional job descriptions based on user inputs. This app uses OpenAI's GPT-3 language model to dynamically create detailed and personalized job descriptions.
+  
 Features
+
 1.User Input: Input job title, company name, job description, desired skills, and experience level.
 2.AI Generation: Utilizes OpenAI's API to create detailed job descriptions.
 3.Streamlit Interface: Simple and intuitive user interface built with Streamlit.
 
 Installation....
+
 Clone the repository:
 
       git clone https://github.com/yourusername/job-description-generator.git
@@ -19,7 +22,14 @@ Create a virtual environment and activate it:
 Install the required dependencies:
 
       pip install -r requirements.txt
-      Usage
+      # pip install langchain[llms]
+      #pip install langchain-community
+
+      
+      
+
+      
+Usage
 
 Set your OpenAI API key:
 
@@ -30,6 +40,7 @@ Run the Streamlit app:
       streamlit run app.py
       python -m streamlit run app.py
       Open your web browser and go to http://localhost:8501.
+
       
 Fill in the required fields and generate your job description!
 
