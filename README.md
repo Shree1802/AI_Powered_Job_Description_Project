@@ -1,1 +1,1 @@
-# AI_Powered_Job_Description_Project
+# AI_Powered_Job_Description_Generator
