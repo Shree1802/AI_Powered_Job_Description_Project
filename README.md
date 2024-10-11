@@ -1,1 +1,2 @@
-# AI_Powered_Job_Description_Generator
+# AI Powered Job Description Generator
+  Here's a complete GitHub documentation structure for your AI-powered job description generator project. This documentation will include an overview, setup instructions, how to use the app, and contribution guidelines.  AI-Powered Job Description Generator An AI-powered application built with Streamlit and OpenAI to generate professional job descriptions based on user inputs. This app uses OpenAI's GPT-3 language model to dynamically create detailed and personalized job descriptions.
