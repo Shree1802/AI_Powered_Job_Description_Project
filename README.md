@@ -21,13 +21,13 @@ Create a virtual environment and activate it:
 
 Install the required dependencies:
 
-      pip install -r requirements.txt
+      pip install -r requirements.txt   
+      or
       # pip install langchain[llms]
-      #pip install langchain-community
-
-      
-      
-
+      # pip install langchain-community
+      # pip install pyyaml
+      # pip install streamlit (if you get any error installing streamlit use the below link, it will install streamlit using anaconda navigator and create virtual an environment. You can navigate the virtual environment in vscode as well.)
+https://docs.streamlit.io/get-started/installation/anaconda-distribution     
       
 Usage
 
